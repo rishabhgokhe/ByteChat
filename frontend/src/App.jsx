@@ -12,6 +12,8 @@ import { useEffect } from "react";
 import { Loader } from "lucide-react";
 import { Toaster } from "react-hot-toast";
 import { useTheme } from "./provider/contextProvider";
+import LandingPage from "./pages/LandingPage";
+import RoomPage from "./pages/RoomPage";
 
 const App = () => {
   const { authUser, checkAuth, isCheckingAuth, onlineUsers } = useAuthStore();
@@ -41,9 +43,14 @@ const App = () => {
           path="/"
           element={authUser ? <HomePage /> : <Navigate to="/login" />}
         />
+        <Route path="/room" element={<RoomPage />} />
         <Route
           path="/signup"
           element={!authUser ? <SignUpPage /> : <Navigate to="/" />}
+        />
+        <Route
+          path="/landing"
+          element={!authUser ? <LandingPage /> : <Navigate to="/" />}
         />
         <Route
           path="/login"

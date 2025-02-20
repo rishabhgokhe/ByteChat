@@ -3,6 +3,7 @@ import { useAuthStore } from "../store/useAuthStore";
 import ImagePattern from "../components/ImagePattern";
 import { Link } from "react-router-dom";
 import { Eye, EyeOff, Loader2, Lock, Mail, MessageSquare } from "lucide-react";
+import AppLogo from "../components/AppLogo";
 
 const LoginPage = () => {
   const [showPassword, setShowPassword] = useState(false);
@@ -28,7 +29,7 @@ const LoginPage = () => {
                 className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/20
               transition-colors"
               >
-                <MessageSquare className="w-6 h-6 text-primary" />
+                <AppLogo />
               </div>
               <h1 className="text-2xl font-bold mt-2">
                 Hey there, welcome back!
@@ -119,7 +120,6 @@ const LoginPage = () => {
         </div>
       </div>
 
-      {/* Right Side - Image/Pattern */}
       <ImagePattern
         title="Welcome Back to ByteChat!"
         subtitle="Log in to pick up right where you left off—chat, share, and stay connected in real-time."

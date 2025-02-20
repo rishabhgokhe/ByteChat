@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { useAuthStore } from "../store/useAuthStore";
 import { LogOut, MessageSquare, Moon, Sun, User } from "lucide-react";
 import { useTheme } from "../provider/contextProvider";
+import AppLogo from "./AppLogo";
 
 const Navbar = () => {
   const { logout, authUser } = useAuthStore();
@@ -21,7 +22,7 @@ const Navbar = () => {
               className="flex items-center gap-2.5 hover:opacity-80 transition-all"
             >
               <div className="size-9 rounded-lg bg-primary/10 flex items-center justify-center">
-                <MessageSquare className="size-6 text-primary" />
+              <AppLogo />
               </div>
               <h1 className="text-lg font-bold">ByteChat</h1>
             </Link>
@@ -60,13 +61,6 @@ const Navbar = () => {
               <span className="hidden sm:inline">
                 {isDarkMode ? "Light" : "Dark"}
               </span>
-            </button>
-
-            <button
-              onClick={() => setTheme("wireframe")}
-              className="btn btn-sm gap-2"
-            >
-              ⚡️ New Wireframe Theme
             </button>
 
             {authUser && (

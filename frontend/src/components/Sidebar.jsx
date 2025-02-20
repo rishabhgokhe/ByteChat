@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { useChatStore } from "../store/useChatStore";
 import { useAuthStore } from "../store/useAuthStore";
-import SidebarSkeleton from "./skeletons/SidebarSkeleton";
 import { Search, Users } from "lucide-react";
 
 const Sidebar = () => {
@@ -18,8 +17,6 @@ const Sidebar = () => {
   const filteredUsers = showOnlineOnly
     ? users.filter((user) => onlineUsers.includes(user._id))
     : users;
-
-  if (isUsersLoading) return <SidebarSkeleton />;
 
   return (
     <aside className="h-full mr-2 w-20 lg:w-72 flex flex-col transition-all duration-200">
