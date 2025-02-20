@@ -28,8 +28,8 @@ const LandingPage = () => {
         {/* Buttons */}
         <div className="mt-10 flex gap-4 flex-wrap">
           <button className="btn btn-outline px-6"><a href="/login">Login</a></button>
-          <button className="btn btn-outline px-6">Sign Up</button>
-          <button className="btn btn-outline px-6"><a href="/room">Create Room</a></button>
+          <button className="btn btn-outline px-6"><a href="/signup">Sign Up</a></button>
+          <button className="btn btn-outline px-6"><a href="https://room-chat-app20.vercel.app/">Create Room</a></button>
         </div>
   
         {/* Footer */}
