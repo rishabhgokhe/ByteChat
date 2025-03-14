@@ -15,13 +15,13 @@ ByteChat is a modern real-time chat application built with React, Node.js, and M
   - [Setup Instructions](#️-setup-instructions)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [Live Preview](#live-preview)
-  - [Acknowledgments](#acknowledgments)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
+  - [Live Preview](#-live-preview)
+  - [Acknowledgments](#-acknowledgments)
+  - [Code of Conduct](#-code-of-conduct)
+  - [License](#-license)
   - [Authors](#-authors)
   - [About Me](#-about-me)
-  - [Feedback](#feedback)
+  - [Feedback](#-feedback)
   - [Contribution Guidelines](#-contribution-guidelines)
 
 ## ✨ Features  
@@ -154,3 +154,15 @@ ByteChat was created with the vision of providing a fast, secure, and interactiv
 
 If you have any feedback, please reach out to us at 
 [![Email Me](https://img.shields.io/badge/Email-Me-black?style=flat&logo=[YOUR_ICON_URL]&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-gokhe-22168b287)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=outline&logoColor=white)](https://portfolio-rishabhgokhe.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishabh_gokhe/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhgokhe)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rishabhgokhe)
+[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh_gokhe)
+
+**Email Address** : [rishabhgokhe20contact@gmail.com](mailto:rishabhgokhe20contact@gmail.com)
