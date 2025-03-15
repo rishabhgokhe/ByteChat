@@ -1,11 +1,36 @@
-
 ![ByteChat Banner](https://res.cloudinary.com/dnytagac4/image/upload/v1741967602/ByteChat_Poster_qesrxh.png)
 
 # ByteChat (Real-Time Chat App)
 
 ## Description
 
-ByteChat is a modern real-time chat application built with React, Node.js, and MongoDB. It offers seamless messaging, real-time updates, and a user-friendly interface. Designed for smooth communication, ByteChat ensures a fast and responsive chatting experience.  
+ByteChat is a modern real-time chat application built with React, Node.js, and MongoDB. It offers seamless messaging, real-time updates, and a user-friendly interface. Designed for smooth communication, ByteChat ensures a fast and responsive chatting experience.
+
+## 📸 Screenshots  
+
+Take a look at ByteChat’s sleek and intuitive interface!  
+
+### **🔑 Authentication**  
+#### Login Page  
+![ByteChat Login](https://res.cloudinary.com/dnytagac4/image/upload/v1742024266/ByteChat_Login_lhwiwz.png)  
+
+#### SignUp Page  
+![ByteChat SignUp](https://res.cloudinary.com/dnytagac4/image/upload/v1742024267/ByteChat_Signup_h7ertl.png)  
+
+### **💬 Chat Interface**  
+#### Chats Homepage  
+![ByteChat Chats Page](https://res.cloudinary.com/dnytagac4/image/upload/v1742024266/ByteChat_Dashboard_ikiljc.png)  
+
+#### Chat Containers (Light Mode)  
+![ByteChat Chat Container](https://res.cloudinary.com/dnytagac4/image/upload/v1742024266/ByteChat_ChatContainer_kxzf25.png)  
+
+#### Chat Containers (Dark Mode)  
+![ByteChat Chat Container Dark](https://res.cloudinary.com/dnytagac4/image/upload/v1742024267/ByteChat_ChatContainer_Dark_tzkpxm.png)  
+
+### **👤 User Profile**  
+#### Profile Page  
+![ByteChat Profile Page](https://res.cloudinary.com/dnytagac4/image/upload/v1742024267/ByteChat_Profile_vyy5jf.png)  
+
 
 # Table of Contents
 
@@ -46,7 +71,7 @@ ByteChat is a modern real-time chat application built with React, Node.js, and M
 **Currently Working on Typing Indicator Feature...**
 
 
-## 🛠️ Tech Stack
+## 🖥️ Tech Stack
 
 - **Frontend:** React, Tailwind, JavaScript, Daisy UI
 - **Backend:** Node.js, Express.js, Sockets.io
@@ -118,13 +143,16 @@ ByteChat is live on Render: [ByteChat Live](https://bytechat-ltd0.onrender.com/l
 
 We expect all participants in our community to adhere to our Code of Conduct. Please read the full text [here](CODE_OF_CONDUCT.md).
 
-## 🔒 License
+## 🔒 License  
 
-This project is proprietary and not open for public use. All rights are reserved by Rishabh Gokhe.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+You are **welcome to contribute** via pull requests and issues, but **commercial use, redistribution, or proprietary modifications** are **strictly prohibited** without explicit permission.
+
 For full license details, refer to the [LICENSE](LICENSE) file.
 
-For inquiries regarding the licensing of this software, please contact: [![Email Me](https://img.shields.io/badge/Email-Me-black?style=flat&logo=[YOUR_ICON_URL]&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
-
+For licensing inquiries or permissions, please contact:
+[![Email Me](https://img.shields.io/badge/Email-Me-black?style=flat&logo=gmail&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
 
 ## 💡 Contribution Guidelines
 
@@ -153,7 +181,7 @@ ByteChat was created with the vision of providing a fast, secure, and interactiv
 ## 📨 Feedback
 
 If you have any feedback, please reach out to us at 
-[![Email Me](https://img.shields.io/badge/Email-Me-black?style=flat&logo=[YOUR_ICON_URL]&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-Me-black?style=flat&logo=gmail&logoColor=white)](mailto:rishabhgokhe20contact@gmail.com)
 
 ## 🔗 Connect with Me
 
